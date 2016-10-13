@@ -1,0 +1,8 @@
+{
+    "name": "MEANStack",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "s525718",
+    "contributors": [],
+    "dependencies": {}
+}
